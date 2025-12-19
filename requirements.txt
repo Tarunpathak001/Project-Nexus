@@ -1,0 +1,9 @@
+cryptography
+deep-translator
+pyttsx3
+SpeechRecognition
+requests
+tkinterweb
+pyaudio
+customtkinter
+packaging

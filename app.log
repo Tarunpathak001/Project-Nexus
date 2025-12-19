@@ -1,0 +1,68 @@
+2025-12-19 11:13:53,031 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:13:53,097 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:13:56,896 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:14:03,577 - ProjectNexus - INFO - Switched to frame: SettingsFrame
+2025-12-19 11:15:43,929 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:15:43,999 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:15:47,388 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:05,720 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:16:05,790 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:16:09,230 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:12,937 - ProjectNexus - INFO - Switched to frame: CalculatorFrame
+2025-12-19 11:16:18,806 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:21,940 - ProjectNexus - WARNING - Frame SnakeGameFrame not found.
+2025-12-19 11:16:24,805 - ProjectNexus - WARNING - Frame SnakeGameFrame not found.
+2025-12-19 11:16:25,151 - ProjectNexus - WARNING - Frame SnakeGameFrame not found.
+2025-12-19 11:16:43,469 - ProjectNexus - INFO - Switched to frame: EncryptDecryptFrame
+2025-12-19 11:16:44,924 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:45,718 - ProjectNexus - WARNING - Frame TextToSpeechFrame not found.
+2025-12-19 11:16:47,905 - ProjectNexus - WARNING - Frame TextToSpeechFrame not found.
+2025-12-19 11:16:48,807 - ProjectNexus - INFO - Switched to frame: WeatherFrame
+2025-12-19 11:16:51,272 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:51,789 - ProjectNexus - WARNING - Frame SpeechToTextFrame not found.
+2025-12-19 11:16:53,332 - ProjectNexus - WARNING - Frame SpeechToTextFrame not found.
+2025-12-19 11:16:53,879 - ProjectNexus - WARNING - Frame StickyNotesFrame not found.
+2025-12-19 11:16:54,725 - ProjectNexus - INFO - Switched to frame: CalculatorFrame
+2025-12-19 11:16:55,978 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:16:57,111 - ProjectNexus - WARNING - Frame YoutubeFrame not found.
+2025-12-19 11:16:58,099 - ProjectNexus - INFO - Switched to frame: NotesFrame
+2025-12-19 11:16:59,796 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:17:00,645 - ProjectNexus - INFO - Switched to frame: ToDoFrame
+2025-12-19 11:17:02,326 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:17:02,903 - ProjectNexus - WARNING - Frame RandomNumberFrame not found.
+2025-12-19 11:17:04,451 - ProjectNexus - INFO - Switched to frame: ExpenseTrackerFrame
+2025-12-19 11:17:06,497 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:17:07,843 - ProjectNexus - WARNING - Frame PasswordGeneratorFrame not found.
+2025-12-19 11:17:08,785 - ProjectNexus - WARNING - Frame StopWatchFrame not found.
+2025-12-19 11:17:09,511 - ProjectNexus - WARNING - Frame TranslatorFrame not found.
+2025-12-19 11:17:10,183 - ProjectNexus - WARNING - Frame SnakeGameFrame not found.
+2025-12-19 11:17:10,798 - ProjectNexus - WARNING - Frame TypingSpeedFrame not found.
+2025-12-19 11:17:12,103 - ProjectNexus - INFO - Switched to frame: SettingsFrame
+2025-12-19 11:19:37,465 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:19:37,543 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:19:41,231 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:19:44,270 - ProjectNexus - INFO - Switched to frame: EncryptDecryptFrame
+2025-12-19 11:19:47,229 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:19:48,065 - ProjectNexus - INFO - Switched to frame: TextToSpeechFrame
+2025-12-19 11:19:49,061 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:00,194 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:20:00,261 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:20:03,992 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:06,209 - ProjectNexus - INFO - Switched to frame: SpeechToTextFrame
+2025-12-19 11:20:08,672 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:09,906 - ProjectNexus - INFO - Switched to frame: StickyNotesFrame
+2025-12-19 11:20:11,556 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:12,558 - ProjectNexus - INFO - Switched to frame: CalculatorFrame
+2025-12-19 11:20:13,574 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:14,557 - ProjectNexus - INFO - Switched to frame: ToDoFrame
+2025-12-19 11:20:15,695 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:20:17,368 - ProjectNexus - INFO - Switched to frame: SnakeGameFrame
+2025-12-19 11:24:33,774 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:24:33,857 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:24:37,743 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 11:27:54,648 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 11:27:54,717 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 11:27:58,310 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2025-12-19 12:05:27,521 - ProjectNexus - INFO - Database initialized successfully.
+2025-12-19 12:05:27,597 - ProjectNexus - INFO - Starting Project Nexus...
+2025-12-19 12:05:30,880 - ProjectNexus - INFO - Switched to frame: DashboardFrame

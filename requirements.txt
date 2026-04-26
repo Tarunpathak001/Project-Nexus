@@ -7,3 +7,4 @@ tkinterweb
 pyaudio
 customtkinter
 packaging
+python-dotenv

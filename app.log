@@ -91,3 +91,15 @@
 2026-04-26 10:53:50,285 - ProjectNexus - INFO - Switched to frame: DashboardFrame
 2026-04-26 10:53:51,650 - ProjectNexus - INFO - Switched to frame: SpeechToTextFrame
 2026-04-26 10:53:59,835 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2026-04-26 11:17:28,078 - ProjectNexus - INFO - Database initialized successfully.
+2026-04-26 11:17:28,160 - ProjectNexus - INFO - Starting Project Nexus...
+2026-04-26 11:17:31,595 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2026-04-26 11:17:34,139 - ProjectNexus - INFO - Switched to frame: WeatherFrame
+2026-04-26 11:18:52,047 - ProjectNexus - INFO - Database initialized successfully.
+2026-04-26 11:18:52,127 - ProjectNexus - INFO - Starting Project Nexus...
+2026-04-26 11:18:55,582 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2026-04-26 11:18:57,188 - ProjectNexus - INFO - Switched to frame: WeatherFrame
+2026-04-26 11:19:21,241 - ProjectNexus - INFO - Database initialized successfully.
+2026-04-26 11:19:21,315 - ProjectNexus - INFO - Starting Project Nexus...
+2026-04-26 11:19:25,074 - ProjectNexus - INFO - Switched to frame: DashboardFrame
+2026-04-26 11:19:26,897 - ProjectNexus - INFO - Switched to frame: WeatherFrame

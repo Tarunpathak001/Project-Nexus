@@ -35,5 +35,5 @@ ENV/
 quick_notes.txt
 
 # API Keys
-weather_api_key.txt
 .env
+weather_api_key.txt

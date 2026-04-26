@@ -24,7 +24,6 @@ wheels/
 venv/
 env/
 ENV/
-.env
 .venv
 
 # IDEs
@@ -36,4 +35,5 @@ quick_notes.txt
 
 # API Keys
 .env
+.env.local
 weather_api_key.txt
